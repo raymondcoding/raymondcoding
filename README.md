@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raymondcoding
 - 👀 I’m interested in Ruby,Golang,Javascript,Python
-- 🌱 I’m currently learning Golang,C++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
