@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raymondcoding
-- 👀 I’m interested in Ruby,Golang,Javascript,Python
+- 👀 I’m interested in Golang,Javascript,Python,Ruby
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
